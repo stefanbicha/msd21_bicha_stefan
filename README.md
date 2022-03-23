@@ -19,4 +19,9 @@ If Questions come up feel free to contact me: ***stefan.bicha@gmx.at***
 ## Exercises
 
 + [Exercise1](exercise1.md)
-+ [Exercise2](exercise2.md)__
++ [Exercise2](exercise2.md)
+
+## Links
+
++ [Link to GitHub](https://github.com/stefanbicha)
++ [Link to FH](https://www.fh-joanneum.at/)
