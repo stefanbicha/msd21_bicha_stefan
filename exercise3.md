@@ -7,3 +7,7 @@
 > Also therse a folder called generated-sources with the subfolder anotations witch is empty.
 > 
 ![Filetree from Java project Calculator](Filetree.jpg)
+
+>now i have started the program by console
+>
+![Run from console Java project Calculator](runProg.jpg)
