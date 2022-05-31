@@ -4,7 +4,7 @@ Tetris is a Java Program witch rotates a 4x4 Matrix.
 
 ## Visual
 
-![Tetris program output](Tetris.jpg)
+![Tetris program output](resources/images/Tetris.jpg)
 
 ## Usage
 

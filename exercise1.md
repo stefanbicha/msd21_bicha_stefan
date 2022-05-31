@@ -1,6 +1,6 @@
 # Heading 1 Image
 
-![Tetris program output](Tetris.jpg)
+![Tetris program output](resources/images/Tetris.jpg)
 
 ## Heading 2 Link
 
